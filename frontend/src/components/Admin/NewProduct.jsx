@@ -27,7 +27,7 @@ const NewProduct = ({ history }) => {
   const [images, setImages] = useState([]);
   const [imagesPreview, setImagesPreview] = useState([]);
 
-  const categories = ['Laptop', 'Smartphone', 'Shirt', 'Pants', 'Animmals', 'Glasses', 'Shoes', 'Cap', 'Watch'];
+  const categories = ['Laptop', 'Smartphone', 'Shirt', 'Pants', 'Animals', 'Glasses', 'Shoes', 'Cap', 'Watch'];
 
   useEffect(() => {
     if (error) {

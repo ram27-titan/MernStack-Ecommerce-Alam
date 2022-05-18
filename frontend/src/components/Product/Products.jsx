@@ -10,7 +10,7 @@ import { Slider } from '@material-ui/core';
 import { useAlert } from 'react-alert';
 import MetaData from '../layout/MetaData';
 
-const categories = ['Laptop', 'Shirt', 'Pants', 'Tops', 'SmartPhones', 'Electronic Home', 'Animals'];
+const categories = ['Laptop', 'Shirt', 'Pants', 'Cap', 'Smartphone', 'Shoes', 'Animals', 'Glasses'];
 
 const Products = ({ match }) => {
   const dispatch = useDispatch();
