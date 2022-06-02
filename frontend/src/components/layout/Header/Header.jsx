@@ -4,8 +4,6 @@ import { BsSearch } from 'react-icons/bs';
 import { CgProfile } from 'react-icons/cg';
 import { AiOutlineShoppingCart } from 'react-icons/ai';
 
-const options = {};
-
 const Header = () => {
   return (
     <ReactNavbar
