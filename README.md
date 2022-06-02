@@ -1,4 +1,4 @@
-This is a MERN Stack Ecommerce website. I made it for Youtube tutorials. I think everyone will like it.
+This is a MERN Stack Ecommerce website.
 In this project I am using:
 
 M = MONGODB FOR DATABASE
